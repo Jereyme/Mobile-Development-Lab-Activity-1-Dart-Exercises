@@ -1,0 +1,7 @@
+Student Name: Jereyme James B. Diaz
+Current Subjects: 6
+Average Grade 92.5
+Dean's Lister: true
+Total Subjects After Addition: 8
+Improved Grade: 95.0
+Is Grade 90 or Above? true
